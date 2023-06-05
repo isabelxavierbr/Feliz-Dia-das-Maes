@@ -1,0 +1,13 @@
+#imagem {
+    width: auto;
+    height: 220px;
+}
+#imagem2 {
+    width: auto;
+    height: 220px;
+}
+.scroll{
+    width: 100%;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
